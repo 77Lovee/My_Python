@@ -1,2 +1,12 @@
-## My_Python
-This is a set of my Python programs.if you find something wrong in it, you can change it as you wish.
+# My Python
+> Start coding with Python
+
+## Spider
+Simple and useful tools to get information from Internet.
+
+## Collection
++ calc: A simple calculator
+	+ Usage: calculation times <Enter> and then type calculation expresssions;
++ rate: The verificatin of "The Birthday Paradox"
+		
+
