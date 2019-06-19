@@ -11,6 +11,6 @@ Simple and useful tools to get information from Internet.
 		
 
 ## compiler
-+ 实验一 词法分析器 （Cutter.py）
-+ 实验二 语法分析器  (GramAnalyse.py)
++ 实验一 词法分析器 (Cutter.py)
++ 实验二 语法分析器 (GramAnalyse.py)
 + 实验三 语义分析器
